@@ -16,5 +16,5 @@ Depending on your requirements, you can either
 - [Backup only all the entities in your sandbox](/backup-entities): This means all the objects you either created in your domain or the ones you imported. Once you create this backup, you can create a new domain and upload all your entities.  
 - [Backup your entire sandbox](/backup-sandbox): This means you will be backing up all the information about your sandbox. When you do this, you can restore your entire sandbox including server information, as it was. It doesn't only include the entities in your sandbox. 
 
-Check out how you can do both!
+Check out how you can do both! (Both links are 404) 
 
